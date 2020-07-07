@@ -4,13 +4,13 @@ Oktató: Viczián István
 
 Ez a repo tartalmazza a Spring Security bevezetés tanfolyam forráskódjait.
 
-# Bevezetés
+## Bevezetés
 
 Ebben a tanfolyamban bevezetjük a Spring Security-t egy Spring Bootos projekten belül.
 Létrehozunk egy űrlapot, melyen felhasználónévvel és jelszóval lehet bejelentkezni.
 A felhasználókat a memóriában tartjuk nyilván.
 
-# Részletesebb leírás
+## Részletesebb leírás
 
 A Spring Security egy széles körben elterjedt keretrendszer, mellyel
 3-rétegű alkalmazásokat lehet írni. A Spring Boot egy erre épülő
@@ -24,17 +24,17 @@ A Spring ökoszisztémán belül erre a Spring Security projektet szokták haszn
 Ebben a tanfolyamban megnézzük, hogy lehet e Spring Security-t egy egyszerű
 Spring Bootos projektbe bevezetni.
 
-# Szükséges előismeretek
+## Szükséges előismeretek
 
 Elegendő alapvető Java SE tudás, a Springen belül mindent elmondunk,
 amire szükséged lehet.
 
-# Kinek ajánljuk?
+## Kinek ajánljuk?
 
 Akit érdekel, hogyan működik a felhasználó bejelentkeztetése egy Spring Boot 
 alkalmazáson belül.
 
-# Hová jutsz el?
+## Hová jutsz el?
 
 Lesz egy egyszerű Spring Boot alkalmazásod, mely használatához felhasználónévvel
 és jelszóval kell bejelentkezned.
