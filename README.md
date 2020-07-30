@@ -48,4 +48,16 @@ Lesz egy egyszerű Spring Boot alkalmazásod, mely használatához felhasználó
 * 05 - Basic autentikáció Postmannel
 * 06 - Felhasználó létrehozása a memóriában
 * 07 - PasswordEncoder
-
+* 08 - Felhasználók tárolása beágyazott adatbázisban
+* 09 - Felhasználó létrehozása
+* 10 - Autentikáció adatbázisból
+* 11 - MySQL adatbázis előkészítése
+* 12 - Autentikáció MySQL adatbázisból
+* 13 - Új felhasználó felvétele
+* 14 - Saját táblaszerkezet
+* 15 - User osztály
+* 16 - User entitás
+* 17 - UserDetails
+* 18 - Repository
+* 19 - Service
+* 20 - Service használatba vétele

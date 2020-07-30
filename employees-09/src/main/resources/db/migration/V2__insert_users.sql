@@ -1,0 +1,2 @@
+insert into users(username, password, enabled) values ('user2', '$2a$10$VJy5QQ3b0rSNlgLOAbVFyOWa3GQ7x/GZ5D9OJKTL21/6SXvySyqFe', true);
+insert into authorities(username, authority) values ('user2', 'normal_user')
