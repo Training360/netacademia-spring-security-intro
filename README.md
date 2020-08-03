@@ -41,6 +41,8 @@ Lesz egy egyszerű Spring Boot alkalmazásod, mely használatához felhasználó
 
 # Témakörök
 
+## Java Spring Security
+
 * 01 - A projekt váza
 * 02 - Statikus weboldal
 * 03 - Egyszerű bejelentkezés
@@ -48,16 +50,19 @@ Lesz egy egyszerű Spring Boot alkalmazásod, mely használatához felhasználó
 * 05 - Basic autentikáció Postmannel
 * 06 - Felhasználó létrehozása a memóriában
 * 07 - PasswordEncoder
-* 08 - Felhasználók tárolása beágyazott adatbázisban
-* 09 - Felhasználó létrehozása
-* 10 - Autentikáció adatbázisból
-* 11 - MySQL adatbázis előkészítése
-* 12 - Autentikáció MySQL adatbázisból
-* 13 - Új felhasználó felvétele
-* 14 - Saját táblaszerkezet
-* 15 - User osztály
-* 16 - User entitás
-* 17 - UserDetails
-* 18 - Repository
-* 19 - Service
-* 20 - Service használatba vétele
+
+## Spring Security DB
+
+* 01 - Felhasználók tárolása beágyazott adatbázisban
+* 02 - Felhasználó létrehozása
+* 03 - Autentikáció adatbázisból
+* 04 - MySQL adatbázis előkészítése
+* 05 - Autentikáció MySQL adatbázisból
+* 06 - Új felhasználó felvétele
+* 07 - Saját táblaszerkezet
+* 08 - User osztály
+* 09 - User entitás
+* 10 - UserDetails
+* 11 - Repository
+* 12 - Service
+* 13 - Service használatba vétele
